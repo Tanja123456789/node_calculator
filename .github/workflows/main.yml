@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ "main" ]
 
-  repository_dispatch:
+  workflow_dispatch:
     environment:
       description: 'Environment to run tests against'
       type: environment 
