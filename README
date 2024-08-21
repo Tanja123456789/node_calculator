@@ -1,0 +1,14 @@
+#INLÄMNINGSUPPGIFT 3
+Basic calculator application
+
+## How to install
+npm ci
+
+## How to test
+npm test
+
+### To run unit tests
+npm run test:unit
+
+### To run intergation tests
+npm run test:integration
